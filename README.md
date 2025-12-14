@@ -1,0 +1,2 @@
+# Gradient-Descent-Implementation-for-Linear-Regression-Student-Performance-
+A machine learning project implementing the Gradient Descent algorithm. It uses Python/NumPy to optimize weights for a multivariate linear regression model predicting Student Performance. The project focuses on data sampling, feature scaling (StandardScaler), iterative weight updates, and visualization of weight convergence over 100 iterations.
